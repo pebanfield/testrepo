@@ -62,6 +62,5 @@ describe('node-git parser', function(){
         done();
       });
     });
-//change
   })
 });
